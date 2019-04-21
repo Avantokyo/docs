@@ -6,7 +6,7 @@
 
 |  サーバ会社  |  簡単インストール  |  手動インストール  |
 | ---- | ---- | ---- |
-| CORESERVER | [○](https://www.youtube.com/watch?v=DLW4nQX9a-o) | - |
+| CORESERVER | [○](https://www.youtube.com/watch?v=DLW4nQX9a-o)（動画マニュアル） | - |
 | CPI | [○](http://acesr.document.secure.ne.jp/library/cms/wordpress/) | - |
 | Heteml | [○](https://heteml.jp/support/manual/wordpress/) | - |
 | iCLUSTA | [○](https://help.gmocloud.com/app/answers/detail/a_id/2889/kw/wordpress/p/7) | - |
@@ -24,7 +24,7 @@
 | WebARENA | [○](https://web.arena.ne.jp/support/suitex/manual_mp/application/wordpress/install_auto.html) | [○](https://web.arena.ne.jp/support/suitex/manual_mp/application/wordpress/install_self.html) |
 | WEBCROW | [○](https://www.webcrow.jp/support/man/autoinstall_manual_wp.php) | [○](https://www.webcrow.jp/support/man/install_manual_wp.php) |
 | wpX | [○](https://www.wpx.ne.jp/cloud/manual/wordpress_install.php) | - |
-| XREA | [○](https://www.youtube.com/watch?v=j7Pl-x0z-lg) | - |
+| XREA | [○](https://www.youtube.com/watch?v=j7Pl-x0z-lg)（動画マニュアル） | - |
 | XSERVER | [○](https://www.xserver.ne.jp/manual/man_install_auto_word.php) | [○](https://www.xserver.ne.jp/manual/man_install_word.php) |
 | Zenlogic | [○](https://zenlogic.jp/support/manual/install/app-wp.html) | - |
 | Z.com | [○](https://hosting.z.com/jp/support/wp/server-initial-setting/) | - |
