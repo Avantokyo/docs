@@ -1,11 +1,8 @@
 # WordPress ワンクリックインストール リンク集 (Japanese)
 
-[![Edit List]
-(https://img.shields.io/badge/Edit_List--green.svg?style=social)]
-(https://github.com/wp-hosting-japan/docs/edit/master/install-tutorials)
-[![Add New Language]
-(https://img.shields.io/badge/Add_New_Language--green.svg?style=social)]
-(https://github.com/WordPress/servehappy-resources/new/master/tutorials/install-tutorials)
+[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-hosting-japan/docs/edit/master/install-tutorials)
+
+[![Add New Language](https://img.shields.io/badge/Add_New_Language--green.svg?style=social)](https://github.com/WordPress/servehappy-resources/new/master/tutorials/install-tutorials)
 
 This is a list of links with manuals on how to install WordPress on a specific hoster.
 
