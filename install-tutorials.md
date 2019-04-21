@@ -6,10 +6,8 @@
 
 |  サーバ会社  |  簡単インストール  |  手動インストール  |
 | ---- | ---- | ---- |
-| Amimoto | [○](https://www.youtube.com/watch?v=DLW4nQX9a-o) | - |
 | CORESERVER | [○](https://www.youtube.com/watch?v=DLW4nQX9a-o) | - |
 | CPI | [○](http://acesr.document.secure.ne.jp/library/cms/wordpress/) | - |
-| First Server | [○](https://zenlogic.jp/support/manual/install/app-wp.html) | - |
 | Heteml | [○](https://heteml.jp/support/manual/wordpress/) | - |
 | iCLUSTA | [○](https://help.gmocloud.com/app/answers/detail/a_id/2889/kw/wordpress/p/7) | - |
 | Just-Size.Networks | - | [○](https://www.just-size.net/support/manual_cms_wp.php) |
