@@ -1,6 +1,6 @@
 # WordPress ワンクリックインストール リンク集 (Japanese)
 
-[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-hosting-japan/docs/edit/master/install-tutorials.md)  [![Add New Language](https://img.shields.io/badge/Add_New_Language--green.svg?style=social)](https://github.com/wp-hosting-japan/docs/new/master)
+[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-hosting-japan/docs/edit/master/install-tutorials.md) [![Add New Language](https://img.shields.io/badge/Add_New_Language--green.svg?style=social)](https://github.com/wp-hosting-japan/docs/new/master)
 
 ## サーバ会社別 WordPress インストールマニュアル (簡単/手動)リンク集
 
