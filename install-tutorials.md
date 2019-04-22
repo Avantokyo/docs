@@ -10,7 +10,7 @@
 | CPI | [○](http://acesr.document.secure.ne.jp/library/cms/wordpress/) | - |
 | Heteml | [○](https://heteml.jp/support/manual/wordpress/) | - |
 | iCLUSTA | [○](https://help.gmocloud.com/app/answers/detail/a_id/2889/kw/wordpress/p/7) | - |
-| Just-Size.Networks | - | [○](https://www.just-size.net/support/manual_cms_wp.php) |
+| Just-Size.Networks | [○](https://www.just-size.net/service/option_jsnstartup.php) | [○](https://www.just-size.net/support/manual_cms_wp.php) |
 | KAGOYA | [○](https://support.kagoya.jp/kir/manual/wordpress/index.html) | - |
 | Lolipop | [○](https://lolipop.jp/manual/user/applications-wordpress/) | - |
 | MixHost | [○](https://help.mixhost.jp/hc/ja/articles/115003740752-%E7%B0%A1%E5%8D%98%E3%82%A2%E3%83%97%E3%83%AA%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7WordPress%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95) | - |
